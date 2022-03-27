@@ -6,13 +6,13 @@
   * [LinkedIn](https://www.linkedin.com/in/mrrogercampbell/)
   * [GitHub](https://github.com/mrrogercampbell)
 
-You are able to see a PDF version of this repo [here](https://drive.google.com/file/d/17QHbokPU5zspRse_9tBh8LmfdlO8fAFP/view?usp=sharing).
+You can also view this repo as a PDFwhich can be accessed [here](https://drive.google.com/file/d/17QHbokPU5zspRse_9tBh8LmfdlO8fAFP/view?usp=sharing).
 
 ---
 
-## Table of Content
+## Table of Contents
 - [Chegg Subject Matter Expert Assessment Submission](#chegg-subject-matter-expert-assessment-submission)
-  - [Table of Content](#table-of-content)
+  - [Table of Contents](#table-of-contents)
   - [Part 1: New Writing](#part-1-new-writing)
   - [Part 2: Visual Asset Creation](#part-2-visual-asset-creation)
   - [Part 3: Previous Work](#part-3-previous-work)
@@ -31,7 +31,7 @@ For this part of the assessment, I developed a script that meets the criteria fo
 **Submission**: [What is an Array?](https://github.com/mrrogercampbell/what-is-an-array) repo
 
 ## Part 2: Visual Asset Creation
-For part 2 of the assessment, I **created an annotated diagram that illustrates control flow**.
+I utilized [Lucidchart](http://www.lucidchart.com) to create an annotated diagram that illustrates control flow.
 
 ![control flow diagram](./assets/control-flow-diagram.png)
 
