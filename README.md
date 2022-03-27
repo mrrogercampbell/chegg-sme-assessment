@@ -6,7 +6,7 @@
   * [LinkedIn](https://www.linkedin.com/in/mrrogercampbell/)
   * [GitHub](https://github.com/mrrogercampbell)
 
-You can also view this repo as a PDFwhich can be accessed [here](https://drive.google.com/file/d/17QHbokPU5zspRse_9tBh8LmfdlO8fAFP/view?usp=sharing).
+You can also view this repo as a [PDF](https://drive.google.com/file/d/1MaBLF42tOQZHHQLLvY33aVAkDmwcLCKV/view?usp=sharing).
 
 ---
 
