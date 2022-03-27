@@ -31,7 +31,7 @@ For this part of the assessment, I developed a script that meets the criteria fo
 **Submission**: [What is an Array?](https://github.com/mrrogercampbell/what-is-an-array) repo
 
 ## Part 2: Visual Asset Creation
-I utilized [Lucidchart](http://www.lucidchart.com) to create an annotated diagram that illustrates control flow.
+I utilized [Lucidchart](http://www.lucidchart.com) to create an annotated diagram illustrating control flow.
 
 ![control flow diagram](./assets/control-flow-diagram.png)
 
